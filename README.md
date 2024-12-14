@@ -1,8 +1,8 @@
-- hi im evopot
-- im interested in a lot of stuff
-- im currently learning some python libraries for my project
-- im too swag to collaborate
-- you cant reach me
+#evopot
+
+
+Amateur developer currently working on OpenJST, an Android/Linux program made for learning Japanese.
+
 
 <!---
 EvoPot/EvoPot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
