@@ -1,6 +1,3 @@
-#evopot
-
-
 Amateur developer currently working on OpenJST, an Android/Linux program made for learning Japanese.
 
 
